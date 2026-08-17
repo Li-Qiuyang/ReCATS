@@ -28,5 +28,5 @@ Paper：https://dl.acm.org/doi/10.1145/3770855.3817985
 | SWaT | `SWaT` |
 | PSM | `PSM` |
 | SMAP | `SMAP` |
-| MSL | `'MSL` |
+| MSL | `MSL` |
 | GECCO | `GECCO` |
