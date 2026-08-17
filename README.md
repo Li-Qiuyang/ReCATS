@@ -1,4 +1,5 @@
-KDD2026 ReCATS: Replay-Free Continual Anomaly Detection for Non-Stationary Multivariate Time Series
+KDD2026 《ReCATS: Replay-Free Continual Anomaly Detection for Non-Stationary Multivariate Time Series》
+
 Paper：https://dl.acm.org/doi/10.1145/3770855.3817985
 
 1. **运行训练**(以 weather 数据集为例):
@@ -23,9 +24,9 @@ Paper：https://dl.acm.org/doi/10.1145/3770855.3817985
 
 | 数据集 | name 值 |
 |--------|---------|
-| Weather | `'weather'` |
-| SWaT | `'SWaT'` |
-| PSM | `'PSM'` |
-| SMAP | `'SMAP'` |
-| MSL | `'MSL'` |
-| GECCO | `'GECCO'` |
+| Weather | `weather` |
+| SWaT | `SWaT` |
+| PSM | `PSM` |
+| SMAP | `SMAP` |
+| MSL | `'MSL` |
+| GECCO | `GECCO` |
